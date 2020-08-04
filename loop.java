@@ -8,9 +8,6 @@ public class loop {
         {
            System.out.println(x);
         }
-        for(x=1;x<=10;x++)
-        {
-            System.out.print(x);
-        }
+        
     }
 }
